@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Akash
 
 Computer Science Engineering Student 
-<img align="right" width="370" height="290" src="https://images.app.goo.gl/XkJQPJfBW24BNExr6">
+<img align="right" width="370" height="290" src="C:\Users\LENEVO\Desktop\html\PAGANI">
 - 👀 I’m interested in Codeing Developer
 - 🌱 I’m currently learning Full Stack and Java
 - 💞️ I’m looking to collaborate on ...
